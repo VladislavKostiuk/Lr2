@@ -1,0 +1,15 @@
+D:\учёба\proga\C#\Lr2\Lr2\bin\Debug\net6.0\Lr2.exe
+D:\учёба\proga\C#\Lr2\Lr2\bin\Debug\net6.0\Lr2.deps.json
+D:\учёба\proga\C#\Lr2\Lr2\bin\Debug\net6.0\Lr2.runtimeconfig.json
+D:\учёба\proga\C#\Lr2\Lr2\bin\Debug\net6.0\Lr2.dll
+D:\учёба\proga\C#\Lr2\Lr2\bin\Debug\net6.0\Lr2.pdb
+D:\учёба\proga\C#\Lr2\Lr2\obj\Debug\net6.0\Lr2.csproj.AssemblyReference.cache
+D:\учёба\proga\C#\Lr2\Lr2\obj\Debug\net6.0\Lr2.GeneratedMSBuildEditorConfig.editorconfig
+D:\учёба\proga\C#\Lr2\Lr2\obj\Debug\net6.0\Lr2.AssemblyInfoInputs.cache
+D:\учёба\proga\C#\Lr2\Lr2\obj\Debug\net6.0\Lr2.AssemblyInfo.cs
+D:\учёба\proga\C#\Lr2\Lr2\obj\Debug\net6.0\Lr2.csproj.CoreCompileInputs.cache
+D:\учёба\proga\C#\Lr2\Lr2\obj\Debug\net6.0\Lr2.dll
+D:\учёба\proga\C#\Lr2\Lr2\obj\Debug\net6.0\refint\Lr2.dll
+D:\учёба\proga\C#\Lr2\Lr2\obj\Debug\net6.0\Lr2.pdb
+D:\учёба\proga\C#\Lr2\Lr2\obj\Debug\net6.0\Lr2.genruntimeconfig.cache
+D:\учёба\proga\C#\Lr2\Lr2\obj\Debug\net6.0\ref\Lr2.dll
